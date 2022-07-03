@@ -7,4 +7,4 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 * [Maximum Pairwise Product](https://github.com/RamzanShahidkhan/algorithmic-toolbox/blob/9c578d60ad8a1f4adb30a96bc99109908ac62b4a/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp)
 
 ## Week 2 - Algorithmic Warm-up ([PDF](/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf))
-- [Fibonacci Number](week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cppy)
+- [Fibonacci Number](/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cppy)
