@@ -1,1 +1,1 @@
-# algorithmic-toolbox
+# Algorithmic Toolbox
